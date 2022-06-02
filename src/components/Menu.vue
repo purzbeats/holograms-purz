@@ -3,7 +3,7 @@
     
   <div class="topnav" id="myTopnav">
     <a href="#" class="active">Holograms</a>
-    <a href="http://purz.xyz/" class="active">Purz.xyz</a>
+    <a href="http://purz.xyz/">Purz.xyz</a>
     <!-- <a href="javascript:void(0);" class="icon" onclick="myFunction()">
       <i class="fa fa-bars"></i>
     </a> -->
