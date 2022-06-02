@@ -25,6 +25,7 @@ export default {
 
 body {
   background: #ffffff;
+  margin: 0px;
 }
 .rainbowBG {
   background: linear-gradient(-45deg, #F2789F, #F999B7, #F9C5D5, #FEE3EC);
