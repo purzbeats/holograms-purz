@@ -81,11 +81,11 @@ a {
   color: #42b983;
 }
 .portrait {
-  width: auto; 
-  min-height: 50vh;
+  width: 400px; 
+  min-height: 65vh;
 }
 .wide {
-  width: auto;
-  min-height: 90vh;
+  width: 100%;
+  height: auto;
 }
 </style>
