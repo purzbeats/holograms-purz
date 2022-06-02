@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     
-    <div style="display: flex; justify-content: center; align-items: center;">
+    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
       <div style="margin-right: 25px;">
         <img style="max-width: 200px;" src="../assets/purz400.jpg">
       </div>
