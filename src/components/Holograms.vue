@@ -2,7 +2,7 @@
   <div class="hello">
     
     <div style="display: flex; justify-content: center; align-items: center;">
-      <div>
+      <div style="margin-right: 20px;">
         <img style="max-width: 150px;" src="../assets/purz400.jpg">
       </div>
       <div>
