@@ -1,7 +1,8 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>Hello I'm Purz and these are my Holograms.</p>
+    <p>Hello I'm Purz and these are my Holograms.<br>
+    <p><a href="https://hologramsontheinternet.com">Hologramsontheinternet.com</a></p>
 
       <iframe class="portrait" src="https://host.glass/embed/index.html?shortcode=676&initial_angle_pct=.9" frameborder="0"></iframe>
       <iframe class="portrait" src="https://host.glass/embed/index.html?shortcode=675&initial_angle_pct=.9" frameborder="0"></iframe>
