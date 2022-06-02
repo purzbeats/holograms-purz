@@ -84,4 +84,8 @@ a {
   width: auto; 
   min-height: 50vh;
 }
+.wide {
+  width: auto;
+  min-height: 90vh;
+}
 </style>
