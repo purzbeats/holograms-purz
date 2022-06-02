@@ -3,7 +3,7 @@
     
     <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
       <div style="margin-right: 25px;">
-        <a href="https://twitter.com/PurzBeats"><img style="max-width: 200px;" src="../assets/purz400.jpg"></a>
+        <a href="https://twitter.com/PurzBeats"><img style="border-radius: 15px; max-width: 200px;" src="../assets/purz400.jpg"></a>
       </div>
       <div>
         <h1>{{ msg }}</h1>
