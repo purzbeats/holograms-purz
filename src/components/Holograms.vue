@@ -1,10 +1,14 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
     
     <div style="display: flex; justify-content: center; align-items: center;">
-      <div><img style="max-width: 150px;" src="../assets/purz400.jpg"></div>
-      <p style="max-width: 600px;">Hello I'm <a href="https://twitter.com/PurzBeats">Purz</a> and these are my Holograms. I made them for a new project by <a href="https://lookingglassfactory.com/">Looking Glass Factory</a>. They make these really cool physical holographic displays. The holograms below can be displayed on the internet now using these embedded frames.</p>
+      <div>
+        <img style="max-width: 150px;" src="../assets/purz400.jpg">
+      </div>
+      <div>
+        <h1>{{ msg }}</h1>
+        <p style="max-width: 600px;">Hello I'm <a href="https://twitter.com/PurzBeats">Purz</a> and these are my Holograms. I made them for a new project by <a href="https://lookingglassfactory.com/">Looking Glass Factory</a>. They make these really cool physical holographic displays. The holograms below can be displayed on the internet now using these embedded frames.</p>
+      </div>
     </div>
 
     <div style="display: flex; justify-content: center; align-items: center;">
