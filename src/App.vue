@@ -1,13 +1,19 @@
 <template>
+  <Menu msg="Menu"/>
+</template>
+
+<template>
   <Holograms msg="Purz's Holograms"/>
 </template>
 
 <script>
+import Menu from './components/Menu.vue'
 import Holograms from './components/Holograms.vue'
 
 export default {
   name: 'App',
   components: {
+    Menu,
     Holograms
   }
 }
