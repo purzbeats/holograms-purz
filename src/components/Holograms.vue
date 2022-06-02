@@ -7,7 +7,7 @@
       </div>
       <div>
         <h1>{{ msg }}</h1>
-        <p style="max-width: 600px;">Hello I'm <a href="https://twitter.com/PurzBeats">Purz</a> and these are my Holograms. I made them for a new project by <a href="https://lookingglassfactory.com/">Looking Glass Factory</a>. They make these really cool physical holographic displays. The holograms below can be displayed on the internet now using these embedded frames.</p>
+        <p style="max-width: 600px; text-align: left;">Hello I'm <a href="https://twitter.com/PurzBeats">Purz</a> and these are my Holograms. I made them for a new project by <a href="https://lookingglassfactory.com/">Looking Glass Factory</a>. They make these really cool physical holographic displays. The holograms below can be displayed on the internet now using these embedded frames.</p>
         <p>Check out <a href="https://hologramsontheinternet.com">Hologramsontheinternet.com</a> for more info!</p>
       </div>
     </div>
