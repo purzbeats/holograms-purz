@@ -30,8 +30,8 @@ body {
   margin: 0px;
 }
 .rainbowBG {
-  background: linear-gradient(-45deg, #58355E, #E03616, #CFFFB0, #5998C5);
-  background-size: 400% 400%;
+  background: linear-gradient(90deg, #58355E, #E03616, #CFFFB0, #5998C5);
+  background-size: 100% 100%;
   animation: gradient 15s ease infinite;
   height: 100%;
 }
