@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     
-    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 30px;">
+    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 40px; border-bottom: 2px solid #000;">
       <div style="margin-right: 25px;">
         <a href="https://twitter.com/PurzBeats">
           <img style="border-radius: 15px; max-width: 200px;" src="../assets/purz400.jpg">
