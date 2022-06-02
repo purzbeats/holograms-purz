@@ -21,15 +21,6 @@ export default {
     msg: String
   }
 }
-
-function myFunction() {
-  var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
-    x.className += " responsive";
-  } else {
-    x.className = "topnav";
-  }
-}
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
