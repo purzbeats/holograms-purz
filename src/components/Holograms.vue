@@ -86,6 +86,6 @@ a {
 }
 .wide {
   width: 100%;
-  height: auto;
+  height: 95vh;
 }
 </style>
