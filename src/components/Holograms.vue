@@ -80,4 +80,10 @@ li {
 a {
   color: #42b983;
 }
+.portrait {
+  width: 200px;
+}
+.wide {
+  width: 600px;
+}
 </style>
