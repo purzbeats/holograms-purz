@@ -19,11 +19,11 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #ffffff;
   margin-top: 60px;
 }
 body {
-  background: linear-gradient(-45deg, #FFEEEE, #FFF6EA, #F7E9D7, #EBD8C3);
+  background: linear-gradient(-45deg, #187498, #36AE7C, #F9D923, #EB5353);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
   height: 100vh;
