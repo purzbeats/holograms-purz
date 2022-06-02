@@ -23,10 +23,10 @@ export default {
   margin-top: 60px;
 }
 body {
-  background: linear-gradient(-45deg, #187498, #36AE7C, #F9D923, #EB5353);
-  background-size: 400% 400%;
-  animation: gradient 15s ease infinite;
-  height: 100vh;
+  background: linear-gradient(-45deg, #F2789F, #F999B7, #F9C5D5, #FEE3EC);
+  background-size: 200% 200%;
+  animation: gradient 30s ease infinite;
+  height: 100%;
 }
 
 @keyframes gradient {
