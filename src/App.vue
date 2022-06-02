@@ -1,8 +1,5 @@
 <template>
-  <Menu msg="Menu"/>
-</template>
-
-<template>
+  <Menu msg="Purz"/>
   <Holograms msg="Purz's Holograms"/>
 </template>
 
