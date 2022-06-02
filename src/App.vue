@@ -23,6 +23,6 @@ export default {
   margin-top: 60px;
 }
 body {
-  background: linear-gradient(to bottom, lightgray , gray);
+  background: linear-gradient(to bottom, #eeeeee , #999999);
 }
 </style>
