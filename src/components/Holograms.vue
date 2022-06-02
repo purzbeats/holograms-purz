@@ -2,10 +2,10 @@
   <div class="hello">
     
     <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-      <div style="margin-right: 25px;">
+      <div style="margin-right: 25px; background: #ffffff;">
         <a href="https://twitter.com/PurzBeats"><img style="border-radius: 15px; max-width: 200px;" src="../assets/purz400.jpg"></a>
       </div>
-      <div>
+      <div style="background: #ffffff;">
         <h1>{{ msg }}</h1>
         <p style="max-width: 600px; text-align: left;">Hello I'm <a href="https://twitter.com/PurzBeats">Purz</a> and these are my Holograms. I made them for a new project by <a href="https://lookingglassfactory.com/">Looking Glass Factory</a>. They make these really cool physical holographic displays. The holograms below can be displayed on the internet now using these embedded frames.</p>
         <p style="text-align: left;">Check out <a href="https://hologramsontheinternet.com">Hologramsontheinternet.com</a> for more info!</p>
