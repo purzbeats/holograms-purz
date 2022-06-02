@@ -12,18 +12,6 @@
   </div>
 
 </div>
-
-<script>
-function myFunction() {
-  var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
-    x.className += " responsive";
-  } else {
-    x.className = "topnav";
-  }
-}
-</script>
-
 </template>
 
 <script>
@@ -31,6 +19,15 @@ export default {
   name: 'Menu',
   props: {
     msg: String
+  }
+}
+
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
   }
 }
 </script>
