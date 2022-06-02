@@ -1,15 +1,15 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <Holograms msg="Purz's Holograms"/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Holograms from './components/Holograms.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Holograms
   }
 }
 </script>
