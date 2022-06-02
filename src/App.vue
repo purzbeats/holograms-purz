@@ -22,7 +22,11 @@ export default {
   color: #000000;
   margin-top: 60px;
 }
+
 body {
+  background: #ffffff;
+}
+.rainbowBG {
   background: linear-gradient(-45deg, #F2789F, #F999B7, #F9C5D5, #FEE3EC);
   background-size: 200% 200%;
   animation: gradient 30s ease infinite;
