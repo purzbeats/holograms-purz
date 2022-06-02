@@ -1,5 +1,4 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
   <Holograms msg="Purz's Holograms"/>
 </template>
 
