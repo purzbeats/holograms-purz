@@ -2,17 +2,14 @@
   <div class="hello">
     
     <div style="display: flex; justify-content: center; align-items: center;">
-      <div style="margin-right: 20px;">
-        <img style="max-width: 150px;" src="../assets/purz400.jpg">
+      <div style="margin-right: 25px;">
+        <img style="max-width: 200px;" src="../assets/purz400.jpg">
       </div>
       <div>
         <h1>{{ msg }}</h1>
         <p style="max-width: 600px;">Hello I'm <a href="https://twitter.com/PurzBeats">Purz</a> and these are my Holograms. I made them for a new project by <a href="https://lookingglassfactory.com/">Looking Glass Factory</a>. They make these really cool physical holographic displays. The holograms below can be displayed on the internet now using these embedded frames.</p>
+        <p>Check out <a href="https://hologramsontheinternet.com">Hologramsontheinternet.com</a> for more info!</p>
       </div>
-    </div>
-
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <p>Check out <a href="https://hologramsontheinternet.com">Hologramsontheinternet.com</a> for more info!</p>
     </div>
 
       <iframe class="portrait" src="https://host.glass/embed/index.html?shortcode=676&initial_angle_pct=.9" frameborder="0"></iframe>
@@ -31,7 +28,6 @@
       <iframe class="portrait" src="https://host.glass/embed/index.html?shortcode=578&initial_angle_pct=.9" frameborder="0"></iframe>
       <iframe class="portrait" src="https://host.glass/embed/index.html?shortcode=577&initial_angle_pct=.9" frameborder="0"></iframe>
       <iframe class="portrait" src="https://host.glass/embed/index.html?shortcode=572&initial_angle_pct=.9" frameborder="0"></iframe>
-    
       <iframe class="portrait" src="https://host.glass/embed/index.html?shortcode=539&initial_angle_pct=.9" frameborder="0"></iframe>
       <iframe class="portrait" src="https://host.glass/embed/index.html?shortcode=534&initial_angle_pct=.9" frameborder="0"></iframe>
       <iframe class="portrait" src="https://host.glass/embed/index.html?shortcode=532&initial_angle_pct=.9" frameborder="0"></iframe>
