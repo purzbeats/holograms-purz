@@ -23,4 +23,14 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+.portrait {
+  width:  auto;
+  height: 40vh;
+  display: block;
+}
+.wide {
+  width:  45vw;
+  height:  50vh;
+  display: block;
+}
 </style>
