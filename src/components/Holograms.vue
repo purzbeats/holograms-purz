@@ -3,7 +3,9 @@
     
     <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
       <div style="margin-right: 25px;">
-        <a href="https://twitter.com/PurzBeats"><img style="border-radius: 15px; max-width: 200px;" src="../assets/purz400.jpg"></a>
+        <a href="https://twitter.com/PurzBeats">
+          <img style="border-radius: 15px; max-width: 200px;" src="../assets/purz400.jpg">
+        </a>
       </div>
       <div>
         <h1>{{ msg }}</h1>
@@ -12,6 +14,7 @@
       </div>
     </div>
 
+    <div class="rainbowBG">
       <iframe class="portrait" src="https://host.glass/embed/index.html?shortcode=676&initial_angle_pct=.9" frameborder="0"></iframe>
       <iframe class="portrait" src="https://host.glass/embed/index.html?shortcode=675&initial_angle_pct=.9" frameborder="0"></iframe>
       <iframe class="portrait" src="https://host.glass/embed/index.html?shortcode=672&initial_angle_pct=.9" frameborder="0"></iframe>
@@ -59,6 +62,7 @@
       <iframe class="wide" src="https://host.glass/embed/index.html?shortcode=614&initial_angle_pct=.9" frameborder="0"></iframe>
       <iframe class="wide" src="https://host.glass/embed/index.html?shortcode=423&initial_angle_pct=.9" frameborder="0"></iframe>
       <iframe class="wide" src="https://host.glass/embed/index.html?shortcode=416&initial_angle_pct=.9" frameborder="0"></iframe>
+    </div>
   
   </div>
 </template>
