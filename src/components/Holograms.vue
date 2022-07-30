@@ -15,6 +15,12 @@
     </div>
 
     <div class="rainbowBG">
+
+      <iframe class="portrait" src="https://blocks.glass/embed/1405" frameborder="0" allow="xr-spatial-tracking; accelerometer; gyroscope; magnetometer"></iframe>
+      <iframe class="portrait" src="https://blocks.glass/embed/1397" frameborder="0" allow="xr-spatial-tracking; accelerometer; gyroscope; magnetometer"></iframe>
+      <iframe class="portrait" src="https://blocks.glass/embed/1395" frameborder="0" allow="xr-spatial-tracking; accelerometer; gyroscope; magnetometer"></iframe>
+      <iframe class="portrait" src="https://blocks.glass/embed/1377" frameborder="0" allow="xr-spatial-tracking; accelerometer; gyroscope; magnetometer"></iframe>
+
       <iframe class="portrait" src="https://blocks.glass/embed/1372" frameborder="0" allow="xr-spatial-tracking; accelerometer; gyroscope; magnetometer"></iframe>
       <iframe class="portrait" src="https://blocks.glass/embed/676" frameborder="0" allow="xr-spatial-tracking; accelerometer; gyroscope; magnetometer"></iframe>
       <iframe class="portrait" src="https://blocks.glass/embed/675" frameborder="0" allow="xr-spatial-tracking; accelerometer; gyroscope; magnetometer"></iframe>
