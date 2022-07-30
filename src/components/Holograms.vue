@@ -15,7 +15,7 @@
     </div>
 
     <div class="rainbowBG">
-      <iframe src="https://blocks.glass/embed/1372" frameborder="0" style="width:100%; height:100%;" allow="xr-spatial-tracking; accelerometer; gyroscope; magnetometer"></iframe>
+      <iframe src="https://blocks.glass/embed/1372" frameborder="0" allow="xr-spatial-tracking; accelerometer; gyroscope; magnetometer"></iframe>
       <iframe class="portrait" src="https://host.glass/embed/index.html?shortcode=676&initial_angle_pct=.9" frameborder="0"></iframe>
       <iframe class="portrait" src="https://host.glass/embed/index.html?shortcode=675&initial_angle_pct=.9" frameborder="0"></iframe>
       <iframe class="portrait" src="https://host.glass/embed/index.html?shortcode=672&initial_angle_pct=.9" frameborder="0"></iframe>
